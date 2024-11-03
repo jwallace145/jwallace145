@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jimmy Wallace
 
-<!--
-**jwallace145/jwallace145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TODO
+
+## Current Projects
+
+- [Walter](https://walterai.dev): The AI financial assistant that sends daily newsletters to your inbox about your portfolio's perfomance. Sign up for the free newsletter today 🚀
+
+## Interests and Expertise
+
+TODO 
+
+## Get in Touch
+
+Alawys happy to chat!
+
+- Email: [jimmy.wallace145@gmail.com](mailto:jimmy.wallace145@gmail.com)
+- GitHub: [jwallace145](https://github.com/jwallace145)
+- LinkedIn: [Jimmy Wallace](https://www.linkedin.com/in/jimmy-wallace-436143149/)
