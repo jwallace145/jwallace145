@@ -4,14 +4,14 @@
 
 Hello 👋
 
-## Current Projects
+## Projects
 
 - [Walter](https://walterai.dev): The AI financial assistant that sends daily newsletters to your inbox about your portfolio's perfomance. Sign up for the free newsletter today 🚀
 
-## Interests and Expertise
+## Interests
 
-- Music (Guitar specifically 🎸)
-- Python
+- Music (Guitar 🎸)
+- Python 🐍
 - Serverless
 - Full Stack Development
 
