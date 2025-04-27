@@ -12,7 +12,7 @@ Aside from computer science and engineering, I am an avid music listener and ama
 
 ## Projects
 
-- [Walter](https://walterai.dev): The AI investment advisor that sends curated portfolio newsletters to your inbox with the latest market data and news. Sign up for the free newsletter today 🚀
+- [Walter](https://walterai.dev): Smarter finances, less effort. Walter tracks your spending, monitors investments, and delivers weekly AI-powered updates so you always know where you stand. 🚀
 
 ## Interests
 
