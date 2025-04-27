@@ -16,6 +16,7 @@ Aside from computer science and engineering, I am an avid music listener and ama
 
 ## Interests
 
+- Financial Wellness
 - Music (Guitar 🎸)
 - Python 🐍
 - Serverless
