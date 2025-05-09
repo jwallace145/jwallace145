@@ -12,7 +12,7 @@ Aside from computer science and engineering, I am an avid music listener and ama
 
 ## Projects
 
-- [Walter](https://walterai.dev): The AI financial wellness platform designed to help you grow your networth without the hassle through intelligent expense tracking and categorization, real-time investment monitoring, personalized retirement forecasting, and much more. 💵
+- [Walter](https://walterai.dev): The AI financial wellness platform designed to help you grow your networth without the hassle through intelligent expense tracking and categorization, real-time investment monitoring, personalized retirement forecasting, and much more 🚀
 
 ## Interests
 
