@@ -12,7 +12,7 @@ Aside from computer science and engineering, I am an avid music listener and ama
 
 ## Projects
 
-- [Walter](https://walterai.dev): Smarter finances, less effort. Walter tracks your spending, monitors investments, and delivers weekly AI-powered updates so you always know where you stand. 🚀
+- [Walter](https://walterai.dev): The AI financial wellness platform designed to help you grow your networth without the hassle through intelligent expense tracking and categorization, real-time investment monitoring, personalized retirement forecasting, and much more. 💵
 
 ## Interests
 
