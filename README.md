@@ -12,14 +12,25 @@ Aside from computer science and engineering, I am an avid music listener and ama
 
 ## Projects
 
-- [Walter](https://walterai.dev): The AI financial wellness platform designed to help you grow your networth without the hassle through intelligent expense tracking and categorization, real-time investment monitoring, personalized retirement forecasting, and much more 🚀
+### [**Walter**](https://walterai.dev)
+**AI Financial Wellness Platform** — Helping users grow their net worth effortlessly through intelligent automation and insights.  
+Walter tracks spending and investments, delivers AI-powered financial reports, and offers personalized retirement forecasting — all in one seamless experience.
+
+> *Built with Python, Next.js, and AWS. Features ML-based transaction categorization and LLM-driven financial summaries.*
+
+---
+
+### [**CruxProject**](https://github.com/jwallace145/crux-backend)
+**Modern Rock Climbing Social Platform** — Discover new outdoor routes, log indoor climbs, and share beta with the community.  
+CruxProject makes it easy to track progress, find partners, and stay motivated whether you’re climbing at the gym or outside.
+
+> *Built with a modern TypeScript + Go stack. Focused on performance, community features, and intuitive design.*
+
 
 ## Interests
 
-- Financial Wellness
+- Rock Climbing
 - Music (Guitar 🎸)
-- Python 🐍
-- Serverless
 - Full Stack Development
 
 ## Get in Touch
