@@ -32,6 +32,7 @@ CruxProject makes it easy to track progress, find partners, and stay motivated w
 - Rock Climbing
 - Music (Guitar 🎸)
 - Full Stack Development
+- Artificial Intelligence 🤖
 
 ## Get in Touch
 
