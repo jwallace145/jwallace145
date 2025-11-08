@@ -4,21 +4,13 @@
 
 Hello 👋
 
-My name is Jimmy and I am a Software Engineer with 5+ years of experience developing applications at enterprise companies like [Capital One](https://www.capitalone.com/) and [Amazon Web Services](https://aws.amazon.com/).
+My name is Jimmy and I am a Software Engineer with 5+ years of experience developing applications at enterprise companies like [Capital One](https://www.capitalone.com/), [Amazon Web Services](https://aws.amazon.com/), and [Charter Communications](https://corporate.charter.com/)
 
 I enjoy developing side projects in my free time and like to contribute to open source projects that I am interested in. I am always open to new ideas and opportunities to collaborate with other developers looking to build something 🔨
 
 Aside from computer science and engineering, I am an avid music listener and amateur guitar player that rock climbs when I can 🪨
 
 ## Projects
-
-### [**Walter**](https://walterai.dev)
-**AI Financial Wellness Platform** — Helping users grow their net worth effortlessly through intelligent automation and insights.  
-Walter tracks spending and investments, delivers AI-powered financial reports, and offers personalized retirement forecasting — all in one seamless experience.
-
-> *Built with Python, Next.js, and AWS. Features ML-based transaction categorization and LLM-driven financial summaries.*
-
----
 
 ### [**CruxProject**](https://github.com/jwallace145/crux-backend)
 **Modern Rock Climbing Social Platform** — Discover new outdoor routes, log indoor climbs, and share beta with the community.  
