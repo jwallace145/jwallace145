@@ -6,11 +6,11 @@ Hello 👋
 
 My name is Jimmy and I am a Software Engineer with 5+ years of experience developing applications and platforms at enterprise companies like [Capital One](https://www.capitalone.com/), [Amazon Web Services](https://aws.amazon.com/), and [Charter Communications](https://corporate.charter.com/).
 
-I spend most of my time developing backend services for distributed systems hosted in the cloud with a focus on big data computing. I typically like to write backend services in [Python](https://www.python.org/), [Java](https://www.java.com/en/), [TypeScript](https://www.typescriptlang.org/), and [Go](https://go.dev/) (although I thoroughly enjoy learning new languages). I enjoy developing frontend applications as well with [React](https://react.dev/) and [Next.JS](https://nextjs.org/). I have also worked in various DevOps roles and am very familiar with [Terraform](https://developer.hashicorp.com/terraform) and numerous providers.
+I spend most of my time developing backend services for distributed systems hosted in the cloud with a focus on big data computing and analysis. I like to write backend services in [Python](https://www.python.org/), [Java](https://www.java.com/en/), [TypeScript](https://www.typescriptlang.org/), and [Go](https://go.dev/) (although I thoroughly enjoy learning new languages). I enjoy developing frontend applications as well with [React](https://react.dev/) and [Next.JS](https://nextjs.org/). I am also quite familiar with and fond of [Terraform](https://developer.hashicorp.com/terraform) for infrastucture management.
 
-I'm an avid hobbyist and often working on a few side projects. I like to write services/applications that I use in my day-to-day life or projects solely for educational purposes. I'm always on the lookout for new open-source codebases and opportunities to contribute. I am keen to collaborate with other developers looking to build something 🔨
+I'm an avid hobbyist and often working on a few side projects at a time. I like to write services/applications that I use in my day-to-day life or projects for educational purposes. I'm always on the lookout for new open-source codebases and opportunities to contribute; I am keen to collaborate with other developers looking to build something 🔨
 
-Aside from computer science and engineering, I am an avid music listener, amateur guitar player, and a rock climber. Most of the side projects I undertake tend to deal with one of my interests :)
+Aside from computer science and engineering, I am an avid music listener, amateur guitar player, and a frequent rock climber. Most of the side projects I undertake tend to deal with one of my interests :)
 
 ## Projects
 
