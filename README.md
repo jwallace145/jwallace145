@@ -20,7 +20,7 @@ CruxProject makes it easy to track progress, find partners, and stay motivated w
 
 > *Built with a modern TypeScript + Go stack and hosted on AWS*
 
-### [**RustyChess**]()
+### [**RustyChess**](https://github.com/jwallace145/rusty-chess)
 **Chess Engine and Artificial Intelligence built in Rust**
 
 > *Chess engine and AI written from scratch in Rust*
