@@ -1,42 +1,57 @@
 # Jimmy Wallace
 
-## About Me
+**Software engineer · Founder of [Prog Strength](https://progstrength.fitness)**
 
-Hello 👋
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-My name is Jimmy and I am a Software Engineer with 5+ years of experience developing applications and platforms at enterprise companies like [Capital One](https://www.capitalone.com/), [Amazon Web Services](https://aws.amazon.com/), and [Charter Communications](https://corporate.charter.com/).
+---
 
-I spend most of my time developing backend services for distributed systems hosted in the cloud with a focus on big data computing and analysis. I like to write backend services in [Python](https://www.python.org/), [Java](https://www.java.com/en/), [TypeScript](https://www.typescriptlang.org/), and [Go](https://go.dev/) (although I thoroughly enjoy learning new languages). I enjoy developing frontend applications as well with [React](https://react.dev/) and [Next.JS](https://nextjs.org/). I am also quite familiar with and fond of [Terraform](https://developer.hashicorp.com/terraform) for infrastucture management.
+## About
 
-I'm an avid hobbyist and often working on a few side projects at a time. I like to write services/applications that I use in my day-to-day life or projects for educational purposes. I'm always on the lookout for new open-source codebases and opportunities to contribute; I am keen to collaborate with other developers looking to build something 🔨
+Hey, I'm Jimmy 👋
 
-Aside from computer science and engineering, I am an avid music listener, amateur guitar player, and a frequent rock climber. Most of the side projects I undertake tend to deal with one of my interests :)
+I'm a software engineer with 5+ years of experience building backend systems and distributed platforms at [Capital One](https://www.capitalone.com/), [Amazon Web Services](https://aws.amazon.com/), and [Charter Communications](https://corporate.charter.com/). I love the part of the job where messy real-world problems turn into clean, reliable systems — especially when there's big data, cloud infrastructure, or a little bit of ML involved.
 
-## Projects
+These days, most of my energy goes into [**Prog Strength**](https://progstrength.fitness), an AI strength coach I'm building from the ground up. Outside of that, I'm a perpetual side-project hobbyist and always happy to jump into open source with people who like to build things.
 
-### [**CruxProject**](https://github.com/jwallace145/crux-backend)
-**Modern Rock Climbing Platform** — Discover new outdoor routes, log indoor climbs, and share beta with the community.  
-CruxProject makes it easy to track progress, find partners, and stay motivated whether you’re climbing at the gym or outside.
+## What I'm building
 
-> *Built with a modern TypeScript + Go stack and hosted on AWS*
+### [Prog Strength](https://progstrength.fitness) — your AI strength coach
 
-### [**RustyChess**](https://github.com/jwallace145/rusty-chess)
-**Chess Engine and Artificial Intelligence built in Rust**
+Prog Strength is an AI strength coach you can actually *talk to*. Chat or use your voice to track workouts, build personalized training programs, log nutrition, and get coaching that adapts as you progress — all without wrestling with a clunky spreadsheet or a generic fitness app. Available on the web at [progstrength.fitness](https://progstrength.fitness) and as an **iOS app**.
 
-> *Chess engine and AI written from scratch in Rust*
+I'm the founder, and a chunk of what we build is open source — you can find the org and our public repos at **[github.com/Prog-Strength](https://github.com/Prog-Strength)**. Contributions, ideas, and issues are always welcome.
 
+## Tech I reach for
 
-## Interests
+- **Backend** — Python, Go, Java, TypeScript (Node)
+- **Frontend** — React, Next.js
+- **Infrastructure** — AWS, Terraform
+- **Data** — distributed systems, batch & streaming pipelines, big data tooling
 
-- Rock Climbing
-- Music (Guitar 🎸)
-- Full Stack Development
-- Artificial Intelligence 🤖
+I'm also a sucker for picking up new languages on the weekend — Rust has been the latest rabbit hole.
 
-## Get in Touch
+## Beyond the keyboard
 
-Alawys happy to chat!
+When I'm not coding, you'll usually find me at the climbing gym or on a real piece of rock somewhere, picking out something on guitar, or working through a new album for the hundredth time. A lot of my side projects end up somewhere at the intersection of those interests.
 
-- Email: [jimmy.wallace145@gmail.com](mailto:jimmy.wallace145@gmail.com)
-- GitHub: [jwallace145](https://github.com/jwallace145)
-- LinkedIn: [Jimmy Wallace](https://www.linkedin.com/in/jimmy-wallace-436143149/)
+## Let's connect
+
+Always happy to chat — about code, climbing, music, or whatever you're building.
+
+- **Email** — [jimmy.wallace145@gmail.com](mailto:jimmy.wallace145@gmail.com)
+- **GitHub** — [@jwallace145](https://github.com/jwallace145)
+- **LinkedIn** — [Jimmy Wallace](https://www.linkedin.com/in/jimmy-wallace-436143149/)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jwallace145&show_icons=true&hide_border=true&theme=default" alt="Jimmy's GitHub stats" />
+</p>
